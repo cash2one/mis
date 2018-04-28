@@ -1,0 +1,46 @@
+{
+  "buildPath": "/mis/",
+  "pages": [
+    {
+      "name": "store-management",
+      "template": "./template/default.html",
+      "entry": "./src/pages/store-management/main.js"
+    }, {
+      "name": "wifi-management",
+      "template": "./template/default.html",
+      "entry": "./src/pages/wifi-management/main.js"
+    }, {
+      "name": "position-management",
+      "template": "./template/default.html",
+      "entry": "./src/pages/position-management/main.js"
+    }, {
+      "name": "data-source-management",
+      "template": "./template/default.html",
+      "entry": "./src/pages/data-source-management/main.js"
+    }, {
+      "name": "floor-management",
+      "template": "./template/default.html",
+      "entry": "./src/pages/floor-management/main.js"
+    }, {
+      "name": "conversion-rate-view",
+      "template": "./template/default.html",
+      "entry": "./src/pages/conversion-rate-view/main.js"
+    }, {
+      "name": "message-management",
+      "template": "./template/default.html",
+      "entry": "./src/pages/message-management/main.js"
+    }, {
+      "name": "authority-management",
+      "template": "./template/default.html",
+      "entry": "./src/pages/authority-management/main.js"
+    }, {
+      "name": "shop-management",
+      "template": "./template/default.html",
+      "entry": "./src/pages/shop-management/main.js"
+    }, {
+      "name": "log-management",
+      "template": "./template/default.html",
+      "entry": "./src/pages/log-management/main.js"
+    }
+  ]
+}
